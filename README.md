@@ -1,4 +1,4 @@
-<h1 align=center>Liva Hugo | <a target="_blank" href="https://demo.gethugothemes.com/liva" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fliva%2F">Page Speed (77%)</a></h1>
+<h1 align=center>Umut Eren Yıldız | <a target="_blank" href="https://demo.gethugothemes.com/liva" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fliva%2F">Page Speed (77%)</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.58.0" alt="Contributors">
